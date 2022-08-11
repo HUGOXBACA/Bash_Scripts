@@ -1,0 +1,2 @@
+man bash #bash docs 
+man bash | wc -l #word count of a doc 
