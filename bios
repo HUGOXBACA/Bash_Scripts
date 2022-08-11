@@ -1,0 +1,11 @@
+#! /bin/bash 
+
+x=null
+y=null
+
+echo "Enter a value for x:"
+read x 
+echo "Enter a value for y:"
+read y 
+
+echo $x $y 
